@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "app_id": "JHS_LS5_PagUnawa",
+  "bank_version": "1.0.0",
+  "trial_size": 40,
+  "foundation_count": 120,
+  "foundation_sha256": "d8ddd79b4aae0838673edbdbd10d30a07758fdcae6ec0460538c6593c6ce4eae",
+  "foundation_sets": [
+    "A",
+    "B",
+    "C"
+  ],
+  "curriculum_reference": "DepEd 2026 Revised ALS CG",
+  "new_guideline_sources": [],
+  "sets": [],
+  "description": "Append only new sets here. Existing foundation A-C is locked."
+}
